@@ -13,3 +13,5 @@ C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\DataAccess\obj\Debug\net6.0\Da
 C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
 C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\DataAccess\bin\Debug\net6.0\Core.pdb
