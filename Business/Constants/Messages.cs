@@ -12,7 +12,7 @@ namespace Business.Constants
         //değişkenimiz pascalcase olarak yazıldı çünkü erişim belirteci public.
         public static string ProductAdded = "Ürün eklendi";  
         public static string ProductNameInvalid = "Ürün ismi geçersiz";
-        public static string ProductsListed = "Sistem bakımda";
-        public static string MaintenanceTime = "Ürünler listelendi";
+        public static string ProductsListed = "Ürünler listelendi";
+        public static string MaintenanceTime = "Sistem Bakımda";
     }
 }
