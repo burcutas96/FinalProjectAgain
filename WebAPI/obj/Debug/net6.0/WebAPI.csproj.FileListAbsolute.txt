@@ -65,3 +65,7 @@ C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\Busine
 C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\Core.pdb
 C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\DataAccess.pdb
 C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\Entities.pdb
+C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\Autofac.dll
+C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
