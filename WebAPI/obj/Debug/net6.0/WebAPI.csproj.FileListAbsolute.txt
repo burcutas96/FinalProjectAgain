@@ -69,3 +69,4 @@ C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\Autofa
 C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\Autofac.Extras.DynamicProxy.dll
 C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\Castle.Core.dll
 C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\GitHub\Backend\MyFinalProject\WebAPI\bin\Debug\net6.0\FluentValidation.dll
